@@ -145,10 +145,10 @@ enum {
 #define AFE_PROXY_PLAYBACK_PCM_DEVICE 7
 #define AFE_PROXY_RECORD_PCM_DEVICE 8
 
-#define HFP_ASM_RX_TX 18
+/*#define HFP_ASM_RX_TX 18
 
 #define PLATFORM_INFO_XML_PATH          "audio_platform_info.xml"
-#define PLATFORM_INFO_XML_BASE_STRING   "audio_platform_info"
+#define PLATFORM_INFO_XML_BASE_STRING   "audio_platform_info"*/
 
 #define DEVICE_NAME_MAX_SIZE 128
 
